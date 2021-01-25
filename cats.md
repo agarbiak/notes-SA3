@@ -302,7 +302,54 @@ Interlinked modules:
 
 ## Non-modelled CATs
 
+- CATs for an insurer who **has** exposures but does **not** have a model at region-peril
+  - No model exists, chosen not to license / build own
+  - Cost/benefit: exposure not material, business written is niche / not captured well
+- Regions and perils not covered by CAT models - e.g. up to 2011 no Thai floods
+- Seconary perils/effects not covered by CAT models - looting
+- Classes and LoBs not covered by CAT models - personal accident, marine
+- Coverages not covered by CAT models - complex offshore energy risks covers
+- Identifying areas of non-modelled risks:
+  - Top down initial approach to identify areas of material exposure in different regions, review perils covered there
+  - Review existing models to identify gaps and consider if material
+  - Review policy wording for ambiguities on potential losses
+  - Review industry claims and own claims experience
+  - Expert judgement - internal (UWers, CHers), external - CAT vendors, expert groups and risk engineers
+- Quantifying non-modelled CAT risk:
+  - CAT model modification - base expected losses on existing CAT model
+  - Actuarial and statistical methods - requires loss data, use internal/exteranl data, make exposure/inflation/insurance penetration adjustments, fit distribution to frequency & severity of losses
+  - Geospatial - requires risks mapped to defined geographic areas, apply factors to areas, complexity depends on extent of geospatial work
+  - Expert judgement - particularly where no/little data
+- [ABI's Non-modelled risks paper](https://www.abi.org.uk/globalassets/sitecore/files/documents/publications/public/2014/prudential-regulation/nonmodelled-risks-a-guide-to-more-complete-catastrophe-risk-assessment-for-reinsurers.pdf): _A guide to more complete catastrope risk assessment for (re)insurers_
+
 ## Uses of CAT models
+
+- Use CAT models for:
+  1.  Aggregate modelling - monitor aggregate insured loss
+  2.  Pricing
+  3.  Capital allocation
+  4.  Purchasing RI
+  5.  Reserving
+  6.  Designing CAT bonds / ILS vehicles
+
+**Aggregate modelling**
+
+- Use CAT model to assess given peril (e.g. CA EQ), given portfolio (LoB, LE, book) the estimated loss from said peril at different return periods (1 in 10, 1 in 200)
+- Set acceptable limits for such losses according to risk tolerance
+  - 1 in 100 year loss from CA EQ should not exceed $50M => UWers manage book within these limits, regularly report adherence to these UWer guidelines, captured risk monitoring as part of ERM
+  - Lloyd's Realistic Disaster Scenarios: syndicate required to report to managing agency board & Lloyd's on exposure to specified series of events (**not** perils). Lloyd's uses events to assess aggregate exposure across Lloyd's for Central Fund exposure. Note diversifcation (not simply adding each syndicate's 1 in 250 year event).
+- Output from CAT models is a table:
+  - **OEP** - Occurrence Exceedance Probabilities := Prob(loss forom single event) > given loss amount
+  - **AEP** - Aggregate Exceedance Probabilities := Prob(annual aggregate loss) > given loss amount
+  - **OEP** is **misleading** for high frequency perils and strong clustering perils
+
+**Pricing**
+
+**Capital**
+
+**RI purchase**
+
+**Reserving**
 
 ## Problems with CAT models
 
