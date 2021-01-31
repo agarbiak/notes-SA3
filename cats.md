@@ -20,7 +20,6 @@
 - [Non-modelled CATs](#non-modelled-cats)
 - [Uses of CAT models](#uses-of-cat-models)
 - [Problems with CAT models](#problems-with-cat-models)
-- [Commercial CAT models](#commercial-cat-models)
 
 ## Why CAT models exist
 
@@ -51,6 +50,7 @@
 - Accuracy and level of detail of data available impacts reliability
 - Examine historical events
 - Research understanding of underlying causes of events (e.g. earthquake models use paleoseismology)
+- Commercial vendors - AIR, RMS and CoreLogic
 
 ## CAT model overview
 
@@ -345,14 +345,104 @@ Interlinked modules:
 
 **Pricing**
 
+- Structure and price CAT or event XoL RI
+- Assess CAT components of other risks - complementary to burning cost / exposure rating approach (used for non-CAT part of premium):
+  - RI: Pro-rata, per-risk property, energy XoL cover (give implicit CAT cover that may be restricted by event limit)
+  - Primary: CAT-exposed property, marine, energy risks
+- Develop:
+  - Appropriate allowance for CAT risk in exposure rating
+  - Risk-specific pricing for CAT risk based on underlying expoures (e.g. flood zone pricing and CAT RI pricing)
+  - Premium loading factors for portfolio to cover expected cost of CAT claims
+  - Appropriate capital allocations to enable pricing set at level produces appropriate return on captial reflecting inherent CAT risk of portfolio underwritten
+
 **Capital**
+
+- Key element of capitla assessment:
+  - Internal: capital allocation, setting profit targets <- relies on tails of loss distribution (rather than volatility of results), own operational risk assessment (disaster recovery planning)
+  - External: regulators, rating agencies <- detailed output of CAT modelling
 
 **RI purchase**
 
+- Assess appropriate structure and value of outwards RI programme
+- Level of vertical cover:
+  - Protect against single severe event
+  - Number of reinstatements for each layer (multiple events protection)
+- Compare technical prices of outwards treaties, effectiveness in risk mitigation of range of alt programmes
+- Reinsurers seek output from underlying exposure inventories to better price reinsured CAT risk
+
 **Reserving**
+
+- Initial assessment of impact of CAT event by running event from event module most close to actual CAT
+- Assess exposure to actual event on detailed contract-by-contract basis
+- Identifies key contracts and likely affected exposures -> directs effort of claim assessors
 
 ## Problems with CAT models
 
-## Commercial CAT models
+**General**
 
-- AIR, RMS and CoreLogic
+- Simplified mathematical description of system/process
+- Never can be completely accurate modelled loss estimate - element of judgement
+- Only a tool, do not provide complete answer
+- Developing tool - much of underlying science immature
+- Following major event, vendors adjust/refine models - assess areas of models that were good/bad predictor of actual losses
+
+**Frequency**
+
+- Changes in frequency over time
+  - El Nino for NA hurricanes short term oscillations
+  - Atlantic Multidecadal Oscillation (longer term trend of 20-40 year natuaral cycle), plus effects of global warming (under debate by scientists on impact)
+- Need to understand assumptions on frequency trends embedded in models
+  - How used to modify historical frequencies
+  - If different view: modify output appropriately
+- Volatility of modelled frequencies - parameterised distribution allowance for unusually low/high number of events. By specific peril / number of perils.
+
+**Severity**
+
+- Components of severity trends fundamental:
+  - New scientific info on return periods of EQs of given magnitude along particular EQ faults
+  - Changes in building codes: vulnerability of designs -> following EQ, authorities introduce new codes to reduce vulnerability
+  - Changes in population trends
+  - Changes in take-up of EQ insurance
+  - Changes in insurer's own portfolio: size, mix, geographical spread
+  - Changes in insurance T&Cs: imposition of increased deductibles, increassed limits
+- Interaction effects: secondary effects increase loss beyond expected
+  - Demand surge (reduced supply, increased demangd following event)
+    - Shortage of building materials
+    - Increased demand for building materials to repair/replace
+    - Shortage of skilled labour (people evacuted area)
+    - Increasde demand for skilled labout to repair/replace
+- Understand level of severity adjustments already included in model
+- Decide on what other adjustments appropriate depending on use of modelled output
+
+**Modelled assumptions and approximations**
+
+- Approximations used to make mathematics tractable, run-times practical
+- Understand these to know what impact on modelled portfolio
+  - Model EQ and major fires as one event (rather than correlated events)
+
+**Data issues**
+
+- CAT models rely on huge quantities of data of variable quality
+- Vital to understand data input - accurate, complete, level of detail captured
+- Missing data: 'unknown' / 'default' model options
+  - Inventory module: "most likely" exposure characteristics
+  - Understand default options, sensitivity model to different input options
+
+**Unmodelled elements**
+
+- Unmodelled contracts in modelled classes - data not captured for all contracts
+- Unmodelled component of modelled contracts:
+  - multi-location contract captured single zip code
+  - contingent BI purchased as contract extension
+- Unmodelled classes with estimated % shares of industry loss - CAT retro
+- Unmodelled classes with PML estimation - marine hull & cargo, yacht
+- Unmodelled unconsidered classes, nat CAT exposrue not considered - medical facility liability, financial institutions crime
+- Unmodelled secondary perils of modelled loss - Caribbean windstorm surge, flood vs. storm surge
+- Unmodelled perils / territories - East European flood, ice storm
+- Unmodelled components of modelled loss - LAE and additional living expenses
+
+**Using different models**
+
+- Output varies by model
+- Cost & time vs. benefit of multiple vendor models
+- Communication of results - uncertainty inherent
