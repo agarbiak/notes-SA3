@@ -89,7 +89,13 @@ Not yet started.
 
 ## [Taxation](tax.md)
 
-Not yet started.
+- Taxing insurance companies
+- Investment return
+- Underwriting result and provisions
+- Other considerations
+- Taxing mutuals
+- Tax in Lloyd's market
+- Other tax
 
 ## [Pricing](pricing.md)
 
