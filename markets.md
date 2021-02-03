@@ -85,4 +85,50 @@
 
 ## Acquisition of business
 
+**Non LM business**
+
+- Intermediaries: brokers, banks, building societies - paid commission
+- Staff directly employed
+- Internet, telesales, post, off-the-page
+  - Insurance company has distribution division/sub devoted to direct sales
+  - Insurer pays no commission -> reduces costs of acquiring business
+  - Not always case direct marketing costs < commission
+- Aggregators: websites submit prospective policyholder's details to many other sites, collect quotes (ideally on like-for-like basis), compare side-by-side.
+  - Can be classed as brokers - depends on how they make their money
+  - Some countries (e.g. Ireland) do not have aggregator sites
+
+**Issues with PPI and preventing mis-selling**
+
+- Insurance not underwritten at sales stage
+- Taken out by customers without careful consideration if right for their circumstances or attention to policy eligibility conditions
+- Individuals who purchase a policy without advice have little recourse if policy does not benefit them
+  - Most PPI policies not sought out by consumers - sometimes not even aware they had the insurance
+- PPI mis-sold, compliants mishandled, mis-selling by banks/providers and 3rd party brokers - encouraged by large commissions (insurance make bank/provider more money than interest on original loan)
+- Competition Commission investigation order - 6 April 2011, rules in October 2011 (some April 2012):
+  - Provision of adequate information when selling payment protection and providing a personal quote
+  - Obligation to provide an annual review
+  - Prohibition of selling payment protection at the same time the credit agreement is entered into
+
+**LM business**
+
+- Risks too large to be insured entirely by one insurer -> co-insured
+- `Line` := Particular co-insurer's % share of a risk
+- Lloyd's Act requires Lloyd's business introduced by Lloyd's broker / any broker that meet equivalent requirements
+- Service companies approved to introduce personal lines business into Lloyd's
+
+**Underwriting agencies**
+
+- Large source of LM business is underwriting agencies == `Managing General Agents` ("MGAs")
+- MGAs underwrite business on behalf of insurers
+- `Binding authority` := insurer agreed contract with agency
+  - Specify agreed period agency can place insurer on risk for certain classes under agreed policy wordings
+- Problems: agencies paid % of premiums as commission
+  - Conflict of interest: incentive to increase volume of business written without sufficient regard for profitability
+  - Important interest of agency and insurer aligned
+  - Important insurer has good access to exposure data
+- Many MGAs formed by brokers -> efficient way of doing LM business
+- Agency might be formed by company established for that reason
+  - Comapny establish specialist MGA to underwrite risks on behalf of an insurer, e.g. caravan owners
+  - Agency formed with specialist risk management functions in-house to write specialist business on behalf of insurer, e.g. environmental pollution
+
 ## Administration of business
