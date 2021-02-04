@@ -1,7 +1,8 @@
 # Markets <!-- omit in toc -->
 
 - [Lloyd's](#lloyds)
-  - [Annual Venture & RITC](#annual-venture--ritc)
+  - [Annual Venture](#annual-venture)
+  - [RITC](#ritc)
   - [Subscription market](#subscription-market)
 - [London Market](#london-market)
 - [Self-retention groups](#self-retention-groups)
@@ -19,7 +20,40 @@
   - All non-EEA business written in same way -> business insured directly with members
   - Business written though Lloyd's Brussels insured by Lloyd's Brussels and 100% reinsured by syndicates with Lloyd's -> continues protection benefit by Lloyd's capital structure
 
-### Annual Venture & RITC
+### Annual Venture
+
+- Mechanism that allows investors (members) to provide capital to UWers for a year at a time
+- Legal basis of activities
+- Most insurance companies are **vertically integrated**, at Lloyd's different entities take on some roles and extra participant - the Corporation of Lloyd's
+- Participants at Lloyd's include **underwriting members** (== `Names`, == `members`)
+  - Members are insurers for a Lloyd's policy but take no active part in process
+  - Member role is to subscribe to a **syndicate** := collection of one or more members who agreed to back UWing activities of particular UWer (:= **active underwriter**) for one specific calendar year by holding capital at Lloyd's (:= `Funds at Lloyd's`)
+- Profits/liabilities from that year's insurance activities allocated to members on **several basis** (:= each member's profit/loss their own, member not liabile for other member's liabilities) in proportion to agreed participation at start of year
+- Members do not directly employ UWers / staff
+- Syndicate itself has no legal status := shorthand for collection of participating members
+- **Managing agent** operates each syndicate, can operate several syndicates, each syndicate has one managing agent
+- Syndicates usually re-form each year, referenced by numbers
+- Members of syndicate primarily companies (== `corporate members`), some private individuals (private members - limited/unlimited liability), some both.
+- Corporate members must be separate legal entities from management agent, often owned by same insurance group
+- In aggregate, across Lloyd's, corporate members are vast majority of participants
+- Managing agents are **agents** of members on their syndicates -> must act in interests of members, duties extend well beyond normal commercial contract
+- No new unlimited liability private members are admitted, existing number remain very small.
+- Corporate members have limited liability - can only collect up to amount of capital deposited with Lloyd's
+- Each year if syndicate is to be re-formed in following year, current members have right to re-subscribe same proportion of next syndicate. If they do not want to, they can sell right to highest bidder in an auction (== `capacity auction`)
+- Growth of corporate membership, insurance groups bought up all participation rights in number of syndicates
+  - ILVs (**Integrated Lloyd's Vehicles**) := syndicate in which all participants owned by one company/group
+  - Lloyd's allows ILVs to behave like companies - allowing them to hold some capital either in syndicate or in corporate member
+- PRA regulates whole of LLoyd's and each managing agent, does not separately regulate members, although collects some info directly from individual syndicates
+
+**Equitas**
+
+- All of Lloyd's liabilites up to the end of 1992 were Part VII transferred into Equitas in 2009
+- Those liabilites are reinsured & managed by National Indemnity Company and Resolute Management Services Ltd, both part of Berkshire Hathaway
+- Established to manage liabilites arising from 1992 and prior YOAs, not authorised to write new business
+
+### RITC
+
+- RITC allows investors to pass run-off liabilities to a willing buyer if one can be found
 
 ### Subscription market
 
@@ -132,3 +166,12 @@
   - Agency formed with specialist risk management functions in-house to write specialist business on behalf of insurer, e.g. environmental pollution
 
 ## Administration of business
+
+- Generate material to PHers and internal use
+- UWing info held:
+  - Issue original policy
+  - Cope with endorsements := policy wording changes that take effect during original period of insurance, usually follow change in risk covered (often alter original premium)
+  - Cope with renewal processes
+- Claims info held:
+  - Cope with possibility of multiple claims / claimants
+- Intermediaries may take on part of admin responsibility -> commission paid reflects extent intermediary involved
