@@ -2,6 +2,7 @@
 
 - [Lloyd's](#lloyds)
   - [Annual Venture](#annual-venture)
+  - [Syndicate operation](#syndicate-operation)
   - [RITC](#ritc)
   - [Subscription market](#subscription-market)
 - [London Market](#london-market)
@@ -23,6 +24,7 @@
 ### Annual Venture
 
 - Mechanism that allows investors (members) to provide capital to UWers for a year at a time
+- Each annual venture := Year of Account (`YOA`)
 - Legal basis of activities
 - Most insurance companies are **vertically integrated**, at Lloyd's different entities take on some roles and extra participant - the Corporation of Lloyd's
 - Participants at Lloyd's include **underwriting members** (== `Names`, == `members`)
@@ -51,11 +53,99 @@
 - Those liabilites are reinsured & managed by National Indemnity Company and Resolute Management Services Ltd, both part of Berkshire Hathaway
 - Established to manage liabilites arising from 1992 and prior YOAs, not authorised to write new business
 
+### Syndicate operation
+
+- Syndicate remains open beyond end of the UWY -> syndicate continues to exist, members still bound, ceases to accept risks
+- Syndicates **must** remain open at least until end of 3rd year
+  - Members cannot leave the syndicate
+  - Profits remain in the syndicate (some profits can be released under certain conditions)
+- Syndicate contains **Premiums Trust Funds** (`PTFs`) := running balance of premiums received, claims paid out, investment income received and expenses paid out
+  - As claim payments required <- managing agent pays them out of PTFs
+  - If syndicate needs more cash to make payments <- agent make **cash call** on members who provide share of requirement within specified period
+- Syndicate liabilites assessed twice annually (H1 and YE)
+  - YE assessment supported by actuarial review, Statement of Actuarial Opinion (`SAO`)
+- If at any time syndicate's unpaid liabilities exceeed remaining PTFs => solvency shortfall
+  - Part / all members' capital treated as used up -> member may require deposit further capital with Lloyd's
+- End of 3rd year, syndicate allowed to close
+  - Once closed, ceases to exist, members of syndicate have no further association with it
+  - At closure -> profits distributed amongst Names
+  - Outstanding solvency shortfalls give rise to cash calls to fund the RITC
+  - Portfolio of policies continue to generate claim payments on existing/newly notified claims (sometimes for years later) -> to ensure claims can be met and an etity to pay them, syndicate closes after paying an RITC
+
 ### RITC
 
 - RITC allows investors to pass run-off liabilities to a willing buyer if one can be found
+- Two functions:
+  - Reinsurance of all liabilities for a premium usually settled in terms of assets including outwards RI cover
+  - Delegation to the reinsurer to manage day-to-day of syndicate
+- Process subject to Lloyd's Chain of Security, three links:
+  - Syndicate level assets (PTF) - held in trust, benefit of PHers whose contracts underwritten by relevant member
+  - Members' funds at Lloyd's (`FAL`) - held in trust, benefit of PHers
+  - Central assets - mutual assets held by Corporation available, subject to Council approval, to meet member's insurance liabilites
+- If chain fails then reinsured members liable
+  - The RITC allow members to take 100% of the RI as asset in their solvency tests, thus release when all years closed their FAL
+- The need to maintain chain of security means almost all RITCs carried out by Lloyd's syndicates
+- Under RITC, managing agent of ceding syndicate calculates amount appropriate to meet all future liabilites & expenses. Managing agent of receiving syndicate makes same assessment
+  - Managing agents legally agents of members of syndicates they operate => must represent interests of thsoe memebers, need to ensure RITC is fair
+- Normal case: receiving syndicate successor syndicate of closing syndicate
+  - Example: YOA 2020 Syndicate 123 will close at 31 December 2022, YOA 2021 of Syndicate 123 will be receiving syndicate
+- Syndicate requires audit opinion in closing YOA
+
+**Inability to conclude RITC**
+
+- Fundamental uncertainty
+  - Some of liabilites/outstanding exposures at end of 36 monhts still very uncertain of outcome
+    - Large unresolved RI disputes
+    - Claims under dispute
+    - Influx of many late claims
+    - Potential RI failures
+    - 9/11 attacks (precented syndicates closing at end of 2003)
+  - Audit report will indicate fundamental uncertainty prevents RITC
+  - SAO will alos indicate extreme uncertainty / qualified
+  - After passage of time, uncertainty resolved, RITC possible 1+ years later <- syndicate remains open in meantime
+- Lack of receiving syndicate
+  - Syndicates continue year after year / merged into other syndicate => provides natural receiving syndicate
+  - Sometimes syndicates not renewed (e.g. not commercially successful) => no natural receiving syndicate
+  - If not renewed, often experience of last 1+ YOAs bad => **orphan** syndicates contain run-off of bad portfolios of risk => hard to find syndicate that accepts the RITC
+  - As orphan snydicates settled claim, managing agents found receiving syndicates to accept in years following
+  - Authorities gave Centrewrite permission to accept RITC to increase **commerical RITC** marketplace := RITC into receiving syndicates unrelated to ceding orphan syndicate
+
+**RITC system**
+
+- Prior years are telescoped into oldest open syndicate (up to YOA 1993, prior to 1993, all in Equitas)
+- 2021 syndicate has:
+  - 2021 YOA, 2020 YOA == **pure**, 2019 YOA \{1993, ... 2019 YOAs\}
+- Lloyd's analyses past data by pure year := underwriting year of original syndicate
+- Use RITC matrix to identify correct syndicate to allocate experience
+  - Shows how particular syndicates have RITCs into others (commercial RITC or through syndicate merges)
 
 ### Subscription market
+
+- Subscription business := (re)insurance written on a co-insurance basis
+  - Whole risk divided up proportionally, each (re)innsurer takes specified share of premium and claims
+  - Insured look to each co-insurer only to extent of its share
+  - Failure to pay by one co-insurer does not affect liabilities of any others
+- **Placing** slip - broker document, summary of terms of proposed (re)insurance contract, presented to selected UWers for their consideration - who may delete/amend/add terms on slip to give indication/quotation
+- **Signing** slip - broker document, after quotation accepted to process premiums under contract evidenced by placing slip. Cleaned up version of final placing slip, shows UWers' stamps, signed lines, UWing references - inserted by each UWer at request of broker
+- Placing slip can be used as signing slip - needs to show UWers' stamps, signed lines and UWing references
+- **Lead underwriter** - first person seen (normally establiashed expert in that field), takes large (largest) share of risk
+  - Agrees wordings
+  - Agrees price
+  - Decides whether claim paid or whether resisted => follow underwriters must pay if lead agrees
+  - Highly skilled, actively manage book, reputation/expertise influences follow UWers
+  - Costs more to lead, gives leader control of claims negotiation and settlement process
+  - Some classes, lead UWer paid more, more support staff to carry out analysis, especially vertical placements (e.g. aviation)
+- **Follow underwriter** - rest of UWers on slip are follow UWers
+  - Often: Uwers focus on leading / folowing, same for syndicates
+  - Judge careffuly which leaders to follow, leaders need reputation amongst peers (their competitors)
+  - Brokers unlikely to show leaders risk as lead if it will be hard to fill up the slip with well-rated followers
+- Consequence of subscription market for actuaries:
+  - Clarify whether data represents 100% of risk or respective UWer's share
+  - Usually: data relating to premiums and claims will be for share
+  - Usually: information on XS points, layers, etc. will be at 100% level
+  - Actuary convert into common basis (100%) for calcs and back to % share for results => simple but easily generate errors / misunderstanding
+  - To get info (especially claims) need to contact the lead (or broker)
+  - Face-to-face market => politics and UWer led culture prevails
 
 ## London Market
 
