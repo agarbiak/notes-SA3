@@ -178,6 +178,8 @@ IFoA offer practising certificates to cover statuory roles set out by EIOPA for 
   - Improves PHer security
 - Applies to all (re)insurance companies with gross premium income > €5m or gross technical provisions > €25m
   - Member states have option to impose lower limits
+- Requirements apply at both individual insurer and group level
+  - Provision made for supervisory cooperation among jurisdictions through supervisory colleges
 - Key objectives during development maintained:
   - Increase level of harmonisation of solvency regulation across Europe
   - Introduce capital requirements more sensitive to levels of risk undertaken
