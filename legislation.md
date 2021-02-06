@@ -174,6 +174,10 @@ IFoA offer practising certificates to cover statuory roles set out by EIOPA for 
 
 - Came into effect on 1 January 2016
   - Some elements subject to transitional measures
+- Risk-based approach to prudential requirements to bring harmonisation at EEA level
+  - Improves PHer security
+- Applies to all (re)insurance companies with gross premium income > €5m or gross technical provisions > €25m
+  - Member states have option to impose lower limits
 - Key objectives during development maintained:
   - Increase level of harmonisation of solvency regulation across Europe
   - Introduce capital requirements more sensitive to levels of risk undertaken
