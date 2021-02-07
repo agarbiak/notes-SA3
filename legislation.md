@@ -195,6 +195,12 @@ IFoA offer practising certificates to cover statuory roles set out by EIOPA for 
   - Level 3: Develop supervisory guidance & common standards, conduct peer reviews & consistency comparisons
     - Level 3 guidance from EIOPA and enforcement by the EC
   - Level 4: Enforcement by the EC
+- Not just a reporting framework, but a risk management framework with implications for capital allocation, risk mitigation activities and performance management
+- Also impacts optimal product mix and product design
+- Impacts optimal asset mix since asset classes become relatively more/less attractive due to lower/higher capital requirements
+- The availability of risk diversification benefits affects corporate structures => M&A activity
+- MI likely to change to align the SII metrics with decision-making processes
+- External disclosures change (increase) => impacts market
 
 ## Consumer protection
 
