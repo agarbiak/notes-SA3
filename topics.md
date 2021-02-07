@@ -12,7 +12,6 @@ Syllabus states:
 - [Markets](#markets)
 - [Products](#products)
 - [Legislation](#legislation)
-- [Regulation](#regulation)
 - [Lloyds'](#lloyds)
 - [Solvency II](#solvency-ii)
 - [Technical Provisions](#technical-provisions)
@@ -56,27 +55,26 @@ Syllabus states:
 
 ## [Legislation](legislation.md)
 
-- Consumer protection
-- Equality
-- Jurisdictional differences
-
-## [Regulation](regulation.md)
-
 - Regulators
 - Supervisory tools
 - Statutory actuarial roles
+- Jurisdictional differences
+- Consumer protection
+- Equality
 - Jurisdictional differences
 
 ## [Lloyds'](lloyds.md)
 
 - Key features of Lloyd's
+- Regulation at Lloyd's
+- SAOs at Lloyd's
 
 ## [Solvency II](solvency2.md)
 
-- Solvency II framework
-- Pillar 2
-- Pillar 3
-- Group reporting requirements
+- Pillar 1: quantitative
+- Pillar 2: qualitative
+- Pillar 3: reporting
+- Groups
 
 ## [Technical Provisions](tps.md)
 
