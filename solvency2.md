@@ -20,8 +20,9 @@
   - [Risk management function](#risk-management-function)
   - [Internal control](#internal-control)
   - [Actuarial function](#actuarial-function)
-  - [ORSA](#orsa)
+  - [Own Risk and Solvency Assessment (`ORSA`)](#own-risk-and-solvency-assessment-orsa)
 - [Pillar 3 - Reporting requirements](#pillar-3---reporting-requirements)
+- [Application to insurance groups](#application-to-insurance-groups)
 
 ## Pillar 1 - Quantitative requirements
 
@@ -296,23 +297,147 @@
 
 **Market risk**
 
+- Equity risk capital requirement
+  - 39% market value of Type 1 equities
+    - Listed in regulated markets (members of EEA / OECD)
+    - Shares of alternative investment funds authorised as European Long-term Investment Fund
+  - 49% market value of Type 2 equities
+  - Symmetric adjustment (additive) => avoids pro-cyclical effects
+    - Equity stress smaller following decline in equity markets
+    - Equity stress higher following strong performance of equity markets
+    - 31 December 2018: -6.34% symmetric adjustment
+    - 31 December 2020: -0.48% symmetric adjustment
+  - 22% market value for strategic nature equity investments in related undertakings
+- Interest rate risk capital requirement determined by stressing yield curve by specified percentages, varying by term to maturity
+  - Affects value of certain classes of assets (e.g. fixed coupon bonds)
+  - Affects value of liabilites (discounted to allow for time value of money)
+- Property risk capital requirement
+  - 25% market value of properties
+- Currency risk capital requirement
+  - 25% change in currency exchange rates w.r.t. net currency exposures
+- Spread risk capital requirement - based on formula
+  - Corporate bonds - loss on assets := f(duration of assets, credit rating of underlying bonds)
+  - Lower requirements for public sector and mortgage-covered bonds
+- Concentration risk capital requirement - applies to holdings > specified threshold
+  - Based on exposure, rating and total assets held
+
 **Counterparty default risk**
+
+- Counterparty default risk capital requirement split:
+  - Type 1 exposures := small number of counterparties (usually rated)
+    - Based on loss distribution derived from LGDs and default probabilities
+    - Example: RIers, derivative counterparties
+  - Type 2 exposures := diversified mix of unrated counterparties
+    - Based on immediate shock
+    - Assume loss of 90% of receivables which have been due > 3 months
+    - Assume loss of 15% on other receivables
 
 ### Internal Model Solvency Capital Requirement (`IM SCR`)
 
+- Partial or full internal model
+  - Must obtain prior supervisory approval
+- Appropriate if risk profile of business differs materially from underlying in SF
+- Appropriate if company already uses model for risk management / other decision-making purposes (pricing, investment strategy)
+- Supervisor can require company to develop internal model if it considers SF inappropriate to risk profile of company
+- Some circumstance, internal model potentially lead to less onerous overall capital requirements than if SF used
+- Internal model must generate SCR based on stated requirements
+  - Coverage of risk types
+  - Provide protection of least 99.5% confidence level over 1 year time horizon
+- IM must pass tests for supervisory approval:
+  - Use test
+  - Statistical quality standards
+  - Calibration standards
+  - Profit and loss attribution
+  - Validation standards
+  - Documentation standards
+
 **Use test**
+
+- (Re)insurer need to demonstrate IM widely used throughout all relevant areas of business
+- IM needs to play significant role in:
+  - internal goverance,
+  - risk management,
+  - decision-making processes,
+  - economic and solvency capital assessments
+  - capital allocation processes
 
 **Statistical quality standards**
 
+- IM complies with:
+  - Methods used to calculate probability distribution forecast based on adequate, applicable, relevant actuarial & statistical techniques
+  - Methods used to calculate probability distribution forecast based on current & credible information and realistic assumptions
+  - Datasets used in the calculation of the probability distribution forecast updated at least annually
+  - Data used for IM is accurate, complete and appropriate
+  - Assumptions justified to the supervisory authorities
+  - Cover all of the material risks to which (re)insurer exposed
+  - Particular risks associated with financial guarantees and any contractual options must be accurately assessed where material
+  - Risks associated with both PHer options and contractual options must be assessed including the impact that future changes in financial and non-financial conditions may have on the exercising of those options
+  - All expected payments to PHers whether or not payments are contractually guaranteed must be allowed for
+  - - May take account of dependencies within/across risk categories provided system used for measuring diversification effects is adequate
+  - May take account of effect of risk-mitigation techniques, as long as credit risk and other risks arising from the use of risk-mitigation techniques are reflected
+  - May take account of future management actions that would reasonably be expected in specific circumstances
+
 **Calibration standards**
+
+- Demonstrate output from IM calculates SCR which provides PHers with level of protection equivalent to VaR of basic own funds subjec to confidence level of 99.5% over 1 year time horizon
+- Different time period / risk measure can be used for internal purposes
+- May require IM run on relevant benchmark portfolios, external assumptions to verify calibration of IM
+  - Check specification in line with accepted market practice
 
 **Profit and loss attribution**
 
+- Annual review required: causes and source of P&L for each major BU
+- Requirement to demonstrate how categorisation of risk chosen in IM used to explain causes and source of actual P&Ls
+- Categorisation of risk and attribution of P&Ls must reflect risk profile
+
 **Validation standards**
+
+- Required: regular cycle of model validation
+  - Monitoring of performance of IM
+  - Review ongoing appropriateness of specification
+  - Testing results against experience
+- Validation process includes:
+  - Effective statistical process for validating IM enabling demonstration to supervisor resulting capital requirements are appropriate
+  - Analysis of stability of IM => sensitivity of results of IM to changes in key assumptions
+  - Assessment of accuracy, completeness, appropriateness of the probability distribution forecast
+    - Compared to loss experience
+    - Compared to all relevant significant new data and info
 
 **Documentation standards**
 
+- Required: document design and operational details of IM
+- Demonstrates compliance with requirements
+- Detailed outline of theory, assumptions, mathematical and empirical bases underlying IM
+- Circumstance under which IM does not work effectively
+- Major changes to IM
+
 **Practical considerations**
+
+- **Use test** = most challenging aspect of gaining IM approval
+  - Embed model throughout company
+  - Develop effective risk culture
+  - Evidence this is the case
+- Quality of data / assumptions
+  - Historical data available to calibrate extreme events limited
+  - Practice: industry consensus emerge over core stresses (e.g. 99.5th percentile equity fall based on benchmark index)
+  - Companies adapt such standards to allow own specific features (e.g. extent actual equity holdings more/less volatile than underlying benchmark)
+  - Setting correlation factos under extreme conditions = challenging
+- IM structured any way provided tests met
+  - Does not have to follow SF structure
+  - Example: stochastic sims rather than stress tests + correlation matrices
+    - Calibration of stochastic models requires care and expertise
+- 6 month deadline: supervisory authority receives application for IM to approval decision
+  - Challenging for resources of regulatory bodies
+  - Regulators set up **pre-application** informal approach
+    - Encourage companies engage early on in model development and refinement processes
+    - PRA has [PAQC process](https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/supervisory-statement/2018/ss1216update.pdf):
+      - PRA and company: Scoping and planning discussions
+      - PRA and company: SII requirements, content of application
+      - Company: completes self-assessment against SII requirements
+      - PRA and company: agree work plan
+      - Company: monthly reporting to PRA on progress against plan
+      - PRA and company: regular face-to-face meetings to review progress
+      - PRA: review and assessment of IM related aspects of systems and controls
 
 ## Pillar 2 - Qualitative requirements
 
@@ -325,18 +450,189 @@
 
 ### Corporate governance
 
+- Board has overall responsibility for ongoing compliance with SII
+- Organsiation structure: clear segregation of responsibilities, minimum levels defined in Pillar 2 framework
+- Effective system of governance for sound and prudent management of business
+- Written policies for each function and ensure policies implemented:
+  - Risk management
+  - Internal control
+  - Internal audit
+  - Actuarial
+  - Outsourcing (where such process applied)
+
 ### Risk management function
+
+_Article 44 of Solvency II Directive:_ **Risk management**
+
+> Insurance and reinsurance undertakings shall have in place an effective risk-management system comprising strategies, processes and reporting procedures necessary to identify, measure, monitor, manage and report, on a continuous basis the risks, at an individual and at an aggregated level, to which they are or could be exposed, and their interdependencies.
+> That risk-management system shall be effective and well integrated into the organisational structure and in the decision-making processes of the insurance or reinsurance undertaking with proper consideration of the persons who effectively run the undertaking or have other key functions.
+
+- Risk management system covers at least:
+  - underwriting,
+  - reserving,
+  - asset liability management,
+  - investments,
+  - liquidity and concentration risk,
+  - operational risk,
+  - reinsurance and other risk mitigation techniques
+- For (re)insurers using (partial) IM, risk management function covers at least:
+  - Design and implement IM
+  - Test and validate IM
+  - Document IM and subsequent changes made to it
+  - Analyse performance of IM and produce summary reports
+  - Communicate performance of IM, suggest areas to improve, update on status of efforts to improve previous noted weaknesses
 
 ### Internal control
 
+- Internal control system includes:
+  - administrative and accounting procedures
+  - internal control framework
+  - appropraite reporting arrangements at all levels of undertaking
+  - compliance function
+- Compliance risk := potential threat to earnings/business of company resulting from failure to comply with laws/regulations/stipulated practices/standards
+- Internal audit function:
+  - responsible for evaluating adequacy and effectiveness of internal control system and other elements of system of governance
+  - objective and independent from operational functions
+  - communicate findings and recommendations
+  - determine actions to be taken for findings/recommendations
+  - ensure actions carried out
+
 ### Actuarial function
 
-### ORSA
+_Article 48 of Solvency II Directive:_ **Actuarial function**
+
+> 1. Insurance and reinsurance undertakings shall provide for an effective actuarial function to:<br>
+>    (a) coordinate the calculation of technical provisions;<br>
+>    (b) ensure the appropriateness of the methodologies and underlying models used as well as the assumptions made in the calculation of technical provisions;<br>
+>    (c) assess the sufficiency and quality of the data used in the calculation of technical provisions;<br>
+>    (d) compare best estimates against experience;<br>
+>    (e) inform the administrative, management or supervisory body of the reliability and adequacy of the calculation of technical provisions;<br>
+>    (f) oversee the calculation of technical provisions in the cases set out in _Article 82_;<br>
+>    (g) express an opinion on the overall underwriting policy;<br>
+>    (h) express an opinion on the adequacy of reinsurance arrangements; and<br>
+>    (i) contribute to the effective implementation of the risk-management system referred to in _Article 44_, in particular with respect to the risk modelling underlying the calculation of the capital requirements set out in _Chapter VI_, _Sections 4_ and _5_, and to the assessment referred to in _Article 45_.<br>
+> 2. The actuarial function shall be carried out by persons who have knowledge of actuarial and financial mathematics, commensurate with the nature, scale and complexity of the risks inherent in the business of the insurance or reinsurance undertaking, and who are able to demonstrate their relevant experience with applicable professional and other standards.
+
+_Article 82 of Solvency II Directive:_ **Data quality and application of approximations, including case-by-case approaches, for technical provisions**
+
+> Member States shall ensure that insurance and reinsurance undertakings have internal processes and procedures in place to ensure the appropriateness, completeness and accuracy of the data used in the calculation of their technical provisions.<br>
+> Where, in specific circumstances, insurance and reinsurance undertakings have insufficient data of appropriate quality to apply a reliable actuarial method to a set or subset of their insurance and reinsurance obligations, or amounts recoverable from reinsurance contracts and special purpose vehicles, appropriate approximations, including case-by-case approaches, may be used in the calculation of the best estimate.
+
+### Own Risk and Solvency Assessment (`ORSA`)
+
+ORSA := defined by EIPOA as
+
+> The entirety of the processes and procedures employed to identify, assess, monitor, manage and report the short and long term risks an insurance undertaking faces or may face and to determine the own funds necessary to ensure that the undertaking’s overall solvency needs are met at all times.
+
+- Identify **all** risks subject to and related risk management processes and controls
+  - Includes some of qualitative risks not assessed under Pillar 1
+  - Example: Reputational risk
+- Quantify ability to continue to meet MCR and SCR over business planning horizon (usually 3 - 5 years), allowing for new business
+  - Not at prescribed confidence level
+  - Confidence level company feels appropriate
+    - Own stated risk appetite
+    - Achieving target credit rating
+- Evidence to supervisor that ORSA used by senior management
+  - Impact of ORSA considered in strategic decisions
+- ORSA contains minimum components:
+  - Assessmenet of overall solvency needs
+    - Considering company's specific risk profile, approved risk tolerance limits and business strategy
+  - Continuous compliance with capital requirements
+  - Continuous compliance with TPs
+  - Consider extent which risk profile deviates from assumptions underlying SCR
+- ORSA policy
+- ORSA integral part of businesss strategy
+  - Considered in ongoing strategic decisions
+- ORSA performed regularly (minimum annually)
+  - Without delay following significant change in risk profile
+- Requirement: inform supervisor results of each ORSA
+- ORSA process and outcome documented and independently assessed
+- Explain and justify following aspects:
+  - methodology and assumptions
+  - results and sensitivity of results to assumptions
+  - appropriateness of methodology used
+  - sources of data and systems & controls around data
+  - approach for dealing with parameter uncertainty and fluctations
+- Minimum documentation requirements:
+  - description of areas included
+  - description of process of conducting ORSA and responsibilities of key personnel involved
+  - stress tests used and their results
+  - amount of overall solvency needs
+  - financial condition of undertaking - with sign off by administrative/management body
+  - strategies for raising additional own funds where necessary
+  - description of independent assessment and results of last assessment
+  - frequency and contents of internal reporting
 
 ## Pillar 3 - Reporting requirements
 
 - Comprises reporting and disclosure requirements
 - Public Solvency and Financial Condition Report (`SFCR`)
+  - produced annually
+  - quantiative templates
+  - solvency calculation details
+  - risk management processes
+  - can apply for certain items to not be disclosed if demonstrate confidential
 - Reporting to the supervisory authority of a Regular Supervisory Report (`RSR`)
-- Quantitative templates
+  - Solvency calculation details
+  - Risk management processes
+  - At least triennially with summary version for other years
+  - ORSA at least annually
 - The aim of public disclosures is to harness market discipline by requiring firms to publish certain details of their risks, capital and risk management
+- Each document includes sufficient info to assess:
+  - system of governance applied
+  - business pursued
+  - valuation principles applied for solvency purposes
+  - risks faced
+  - risk management systems
+  - capital structure, needs and management
+- SFCR and RSR contain sections:
+  - summary
+  - business and performance
+  - system of governance
+    - description of system of governance
+    - assessment of its adequacy for risk profile
+  - risk profile
+    - separate description for each category of risk
+    - risk exposure, concentration, mitigation and sensitivity
+  - valuation for solvency purposes
+    - separate description for assets, TPs and other liabilities
+    - bases and methods used for valuation
+    - explanation of major differences in bases and methods used in valuation in financial statements
+  - capital management
+    - structure and amount of own funds
+    - quality of own funds
+      - analysis of change compared to previous reporting period
+    - info to allow understanding of main difference between underlying assumptions of SF and those of IM used for calculation of SCR
+    - amount of non-compliance with MCR or significant non-compliance with SCR during reporting period
+      - even if subsequently resolved
+      - explain origins and consequences
+      - explain remedial measures taken
+  - additional voluntary information
+- RSR also includes:
+  - business and risk strategies
+  - legal and regulatory issues
+  - financial and non-financial objectives
+  - explanation of variance to plan
+  - future developments
+  - disclosure of IM results
+- EIOPA publish detailed quantitative reporting templates (`QRTs`)
+  - quarterly and annual reporting of quantitative financial information under SII
+
+## Application to insurance groups
+
+- SII enables groups to be supervised more efficiently through **group supervisor** in home country
+- Group supervisor co-operatates with other national supervisors
+- Ensures group-wide risks not overlooked
+- Enables groups to operate more effectively whilst providing PHer protection
+- Each group must cover overall group SCR
+  - Allows for diversification benefits across group
+  - Subject to minimum of sum of MCRs of each sub
+- Each insurance sub needs to cover its own SCR
+- Group supervision carried out at top level company within EEA
+  - Additional rules apply to subs/parents located elsewhere
+  - Impose SII requirements or for non-EEA parent: establish EU holding company
+- If 3rd country regulatory regiem ~= equivalent to SII
+  - Regulated as if located in EEA
+  - Replaces SII rules with those of 3rd country regulatory regime
+  - Full 3rd country equivalence: Bermuda, Canada, Japan, Mexico, Switzerland, US
+  - Temporary equivalence: Australia, Brazil
