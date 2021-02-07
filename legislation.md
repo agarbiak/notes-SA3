@@ -28,6 +28,13 @@ Aims met by ensuring:
 - Companies treat policyhers fairly => Consumer protection
 - All employees take training to identify potential financial crime and know how to report it
 
+**PRA**
+
+- Responsible for the prudential regulation and supervision of banks, building societies, credit unions, insurers and major investment firms
+- Objective of promoting safety and soundness of persons who carry out PRA regulated activities
+  - Insurance objective of contributing to securing an appropriate degree of protection for those who are or may become policyholders.
+- Secondary objective to facilitate effective competition in the markets for services provided by PRA-authorised persons in carrying on regulated activities.
+
 ### Supervisory tools
 
 Tools use to meet objectives:
