@@ -31,11 +31,50 @@
 
 ## Technical standards for UK work
 
+- Members must comply with requirements under the Financial Services and Markets Act (`FSMA`)
+  - Also any professional standards / guidance relevant to work and professional body they belong to
+- Standards required for members of the IFoA detailed in:
+  - The Actuaries' Code
+  - Technical Actuarial Standards
+  - Actuarial Profession Standards (`ASPs`)
+- Technical professional standards produced and maintained by independent Financial Reporting Council (`FRC`)
+  - Principles-based Technical Actuarial Standards (`TASs`) - mandatory for all IFoA members when work within scope of that TAS
+- IFoA responsible for ethical regulation of members
+  - Requires members to observe them
+- ASPs apply regardless of where member / work is located
+- TASs came in 1 July 2017
+- Framework for FRC technical actuarial standards describes general scope and authority of TASs
+  - Each specific TAS defines its scope
+
 ## Technical Actuarial Standards
 
 ### TAS 100
 
+- TAS 100 := Principles for Technical Actuarial Work
+- Promotes high quality technical actuarial work
+- Supports reliability objective
+  - Users whom actuarial information is created should be able to place high degree of reliance on:
+    - information's relevance
+    - transparency of assumptions
+    - completeness and comprehensibility
+    - communication of any uncertainty inherent in information
+- Applicable to all techical actuarial work done in relation to UK operations of entites
+  - Also any overseas operations which report into the UK (law or regulation)
+- Technical actuarial work :=
+  - where use of principles and/or techniques of actuarial science is central to work and involves exercise of judgment
+  - or which user may reasonable regard as technical actuarial work by virtue of the manner of its presentation
+- Technical actuarial work **not** limited to work undertaken by actuary
+- Departures from provisions on communications permitted if unlikely to materially effect decision of users
+- Work should be proportionate to nature, scale, complexity of decision/assignment and benefit users expected to obtain
+- Communications for reserved work, within scope of specific TAS and technical actuarial work central to significant decision shall include a statement confirming compliance with TAS 100
+- Detailed guidance around principles of judgement, data, assumptions, models, communications and documentation
+
 ### TAS 200
+
+- TAS 200 := Insurance
+- Promotes high quality technical actuarial work in insurance on matters where high degree of risk to public interest
+- Suppports reliability objective
+- Applicable to following technical actuarial work:
 
 ## The Actuaries' Code
 
