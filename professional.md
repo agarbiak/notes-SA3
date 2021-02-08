@@ -75,8 +75,49 @@
 - Promotes high quality technical actuarial work in insurance on matters where high degree of risk to public interest
 - Suppports reliability objective
 - Applicable to following technical actuarial work:
+  - Support preparation of insurer's balance sheet for prudential regulatory purposes
+  - Support prepartation of insurer's financial statements
+  - Support opinion on provisions as required by LLoyd's => SAO
+  - Support confirmation that insurer's reserves are not excessive for tax purposes
+    - As required under the General Insurer's Technical Provisions (Appropriate Amount) Regulations 2009
+  - Technical actuarial work to support calculation of insurer's prudential capital requirements
+  - Technical actuarial work undertaken as part of its ORSA
+  - Support insurance transformations
+    - schemes of arrangement
+    - Part VII transfers
+  - Support provision of an audit opinion on insurer's financial statements and reporting of parent company's interest in insurer in its financial statements
+  - Support provision of auditor's assurance opinion on insurer's prudential regulatory reporting
+  - Support pricing frameworks
+- Same materiality, proportionality, statement of compliance requirements apply as TAS 100
+- TAS 200 principles calls for:
+  - judgements reflect nature of business, materiality of risks faced and sensitivity of results to such judgements
+  - documentation of sources, checks, quality of data and data proxies/groupings
+  - derivation of material assumptions
+  - clarification of best/central estimates
+  - model results are reproducible
+  - statements of applicable regulations
+    - any departure thereon
+  - explication of material differences from previous exercise
+  - explication of material divergence of best estimate values
+    - including adjustments for risk
+  - description of stress testing assumptions and methodology
+    - results thereon
+  - description of projections used with any limitations
+  - impact of transformations on relevant parties
+  - audit / assurance work with professional scepticism
+    - note material deficiencies / limitations
 
 ## The Actuaries' Code
+
+- Sets out 6 core principles that apply all time to all member's conduct in relation to actuarial role
+  - or other conduct if conduct reasonably considered reflect upon profession
+- Integrity - members must act honestly and with integrity
+- Competence and care - members must carry out work competently and with care
+- Impartiality - members must ensure their professional judgement not compromised, cannot reasonably seen to be compromised
+  - by bias / conflict of interest / undue influence of others
+- Compliance - members must comply with all relevant legal, regulatory and professional requirements
+- Speaking up - members should speak up if they believe / reasonable cause to believe that course of action is unethical / unlawful
+- Communication - members must communicate appropriately
 
 ## Actuarial Profession Standards
 
