@@ -121,4 +121,31 @@
 
 ## Actuarial Profession Standards
 
+- APS G1 - Chief Actuary in Non-life Insurance
+  - requirements for statutory role of Chief ACtuary for UK authorised general insurance companies and Lloyd's syndicates
+  - Relationship between such actuaries and members who support the role holders
+- APS G2 - Actuarial reporting for Lloyd's syndicates writing US business
+  - preparation by actuary appointed by Lloyd's managing agent of opinions required by the IID of the NAIC / NYID for Lloyd's syndicates writing relevant US (re)insurance business
+- APS X1 - Applying standards to actuarial work
+  - Principles applied by members to determine which stadnard must/should apply to piece of work
+  - All actuaries must apply Actuaries' Code and relevant ASPs
+  - Principles to follow to identify/apply appropriate standards to work
+  - Relevant to memebers working in geographically complex situations / competing standards apply
+- APS X2 - Review of actuarial work
+  - Applies to all members
+  - Relates to need to consider extent to which review (incl. independent peer review) required for actuarial work
+    - Work undertaken by member in capacity as person with actuarial skills which recipient of work entitled to reply
+- APS X3 - The actuary as an expert in legal proceedings
+  - Applies to actuaries appointed to act as expert witness in legal proceedings (courts, tribunals, etc.)
+
 ### IFoA non-mandatory resource material
+
+- Provides helpful guidance for members
+- _"Speaking Up - a guide for members"_ and _"Whistleblowing - a guide for employers of actuaries"_
+  - Leaflets to help all actuaries and employers understand whistleblowing obligations (professionally and legally)
+  - Alleviate concerns have about such responsibilities
+- _"Conflicts of interest - a guide for members"_ and _"Conflicts of interest - a guide for employers of actuaries"_
+  - Leaflets build on Actuaries' Code w.r.t. conflicts of interest
+  - Sets out views on good practice regarding such conflicts and how might be managed
+- Guidance for dealing with personal data
+  - Data controller responsibilities
