@@ -45,6 +45,10 @@
 - Gives true and fair view of company's finances at the end of a financial year and the profit/loss for the financial year
   - For benefit of shareholders, policyholders and anyone who has business dealings with company
 
+Technical account for general business:
+
+> part of the Profit and Loss Account for insurance companies within the EU. It is made up of earned premiums less incurred claims (both adjusted for reinsurance as appropriate), less expenses (with an allowance for deferred acquisition costs as appropriate), plus any part of the investment income that may be allocated to the technical account.
+
 ## Statutory Returns
 
 - Differ from annual accounting as liabilities calculated on different basis
