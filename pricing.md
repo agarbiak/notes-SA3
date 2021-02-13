@@ -479,12 +479,85 @@ Key stages in arriving at technical price:
 
 ### Burning cost approach
 
+- Collect incurred claims data for past years
+- Estimate ultimate claims position for each year
+  - Reserving exercise if longer tailed
+- Collect exposure for past years
+- Burning cost (each year) := ultimate claims / exposure
+  - May show trend - claims inflation
+- Estimate burning cost for next policy year
+- Multiply this by estimated exposure for next year
+- Practicalities:
+  - Data to use and relevance of old years
+    - Sufficient volume of data for credibility & accuracy
+    - Weighed against relevance of past experience
+  - Credibility of client specific data
+    - Weight own experience with book rates
+  - Estimating cost of large & cat claims
+    - Use increased limit factors / original loss curves
+  - Estimating cost of covers not represented in claims experience
+  - Inflation
+  - Unequal policy periods
+
 ### Frequency severity approach
+
+- Frequency / severity approach := burning cost with separate assessment for:
+  - Expected number of claims
+  - Average claims cost
 
 ### Simulation
 
+- Based on output of frequency / severity approach
+- Fit statistical distributions to historical claims numbers and averages
+  - Curve-fitting software
+  - Formulaic approach (e.g. method of moments)
+- Simulate many future scenarios to price many features of policy
+- Potential errors using simulations especially with sparse data
+- Communicate uncertainty to underwriters
+
 ### Exposure rating
+
+- Used where technical premium derived from claims experience of single risk is very difficult
+- Example: airlines insurance total loss (very rare event)
+- Market model approach == exposure rating
+- Total claims across whole industry expected in coming year
+  - Apportion total amount across market based on:
+    - Measures of exposure (e.g. number of aircraft)
+    - Measures of risk (e.g. quality of pilot training, aircraft maintenance)
+- For layered business: rate risk at full value => apportion premium to different layers using exposure curve
 
 ## Negotiation
 
+- Large premiums implies client/broker/distribution channel negotiation
+- Underwriter explanation
+  - Actuary explains data and methodology used in deriving technical price
+  - Important where technical price > underwriter price
+  - Where complex methods used => actuary needs to communicate / train others
+- Transparency meetings
+  - Actuary presents point of view to client/broker
+  - Broker/client accepts quote but wishes to understand why actuary taken view of risk
+- Product design
+  - Actuary provides alternative designs (e.g. different levels of retention)
+  - Gives comfort to underwriter
+  - Provides value / cover the client requires
+- Data capture
+  - Actuary helps design system to record underlying loss, policy and exposure data and results of negotiations
+  - System should keep record of:
+    - technical pricing
+    - final negotiated price
+  - Needed to understand overally likely profitability of portfolio
+  - Keep information used during negotation process to review over time
+  - Part of standard actuarial control cycle
+
 ## Portfolio management
+
+- Complex risks => difficult to say at the level one risk will be profitable or not
+- To view portfolio of risks need certain information at overall portfolio level:
+  - Ultimate expected performance of recent underwriting years (from reserving)
+  - Captial required for whole portfolio
+  - Rate increase on risks that have renewed in recent years
+  - Performance of business that has lapsed
+  - Expected performance of new business written
+  - Technical premium required for whole portfolio
+  - Total actual premium for whole portfolio
+  - Performance of other similar portfolios in the market
