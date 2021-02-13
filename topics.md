@@ -118,10 +118,15 @@ Not yet started.
 
 - Annual accounting
 - Statutory returns
+- Management accounts
+- Discounting
 
 ### [IFRS 17](ifrs17.md)
 
-Not yet started.
+- Aggregation
+- General Measurement Model (BBA)
+- Premium Allocation Approach (PAA)
+- Disclosure
 
 ## [Business Planning](business_planning.md)
 
