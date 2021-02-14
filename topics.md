@@ -23,6 +23,7 @@ Syllabus states:
 - [Financial Reporting](#financial-reporting)
   - [IFRS 17](#ifrs-17)
 - [Business Planning](#business-planning)
+- [Capital costs in business planning](#capital-costs-in-business-planning)
 - [Exit Solutions](#exit-solutions)
 - [Other Topics](#other-topics)
 
@@ -132,6 +133,14 @@ Not yet started.
 
 - Financial planning requirements
 - Financial planning models
+
+## [Capital costs in business planning](capital_costs.md)
+
+- Benefits of capital allocation
+- Components of capital cost
+- Risk measure coherence
+- Capital allocation methods
+- Incorporating capital costs
 
 ## [Exit Solutions](exit.md)
 
