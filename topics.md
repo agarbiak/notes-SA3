@@ -134,7 +134,7 @@ Not yet started.
 - Financial planning requirements
 - Financial planning models
 
-## [Capital costs in business planning](capital_costs.md)
+## [Capital costs in business planning](capital_cost.md)
 
 - Benefits of capital allocation
 - Components of capital cost
