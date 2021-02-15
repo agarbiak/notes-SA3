@@ -6,6 +6,12 @@
     - [Capital for PPOs](#capital-for-ppos)
   - [Disruptors to GI market](#disruptors-to-gi-market)
   - [Emerging risks](#emerging-risks)
+    - [Identifcation](#identifcation)
+    - [Exposure](#exposure)
+    - [Aggregation](#aggregation)
+    - [Product development](#product-development)
+    - [Cyber risk](#cyber-risk)
+  - [Climate change](#climate-change)
 
 ## PPOs
 
@@ -114,4 +120,136 @@
 
 ## Disruptors to GI market
 
+- Changing way insurance is transacted by disrupting incumbent approaches established over time
+  - UK example: Direct Line - first personal lines insurer to offer insurance direct to consumer rather than brokers
+- Recent disruption is advent of aggregators (== price comparison websites)
+  - Pricing more transparent between insurance providers
+  - Much wider choice offered to insureds
+  - Consumers now more price sensitive, willing to shop around at renewal
+- Most recent disruption: InsurTech companies
+  - InsurTechs aim to improve efficiency in insurance through technological innovation
+  - Find niche offerings, utilise alternative data sources, build state of the art systems to improve way insurance is transacted
+  - Creates challenges to incumbents: margins competed away and anti-selection risk increases
+  - Access to more and richer data => InsurTech improves risk selection and provides better service to customers
+
 ## Emerging risks
+
+- No single agreed definition
+- Emerging risk := risk which has not yet become apparent or prominent, i.e. not yet well understood, due to:
+  - Not yet even know existence of risk (e.g. health implications of vaping) => **Unknown stage**
+  - Not yet understand potential impact of risk (e.g. autonomous cars within motir insurance) => **Potential stage**
+  - Not yet accurately and reliably quantify impact of risk (e.g. cyber risk)
+  - Risk which was previously well-understood is changing such that current understanding is no longer appropriate (e.g. climate change)
+    - => Current risk management techniques / analytics less appropriate over time
+- Emerging risk challenges:
+  - Identification
+  - Exposure
+  - Aggregation
+  - Almost total lack of data to understand the risk
+
+### Identifcation
+
+- Mature LoBs => lots of experience and loss data
+  - Easy to identify key risks company exposed to
+  - Risks recorded and documented over time in risk register
+  - Risks embedded in internal processes and policies
+  - Risks in insurance policies themselves
+- To identify emerging risks need to think creatively
+- No single correct way to identify emerging risks
+  - Use variety of approaches most effective method of identification
+- Literature review
+  - Emerging risk starts to become _mainstream_ => industry press and academic literature pick up on risk
+- Brainstorming
+  - Company asks employees / consultants to think of possible emerging risks
+- What if analysis
+  - Considering actual historical loss events (or near-misses), what other conditions prevailed at time, possible to identify risks which could have but have not yet emerged in past
+- Process flowcharts
+  - Considering each step of process in detail, what might go wrong, possible to identify risks previously gone unnoticed
+- Trend analysis
+  - Reviewing key datasets for trends may identify risks which no longer behave in way assumed to behave
+
+### Exposure
+
+- Extremely difficult to assess frequency and severity of emerging risk losses from historical data analysis alone
+- Rely on expert judgement as to possible frequency and severity
+- Minimise workload by initially completing at high level, then repeat at more granular level once key scenarios identified
+  - Example: first identify events between: _low_, _medium_, _high_ frequency and (separately) severity
+  - Risks that are high frequency, high severity warrant further investigations
+  - Risks that are low frequency, low severity leave out at this stage
+  - Risks that are extremely high severity investigated further regardless of assumed frequency, maybe no further action required but if risk sufficiently severe consider separately in any case
+    - Due to uncertainty surrounding frequency => small underestimate of frequency of severe event could lead to ruin
+- Each scenario which is further investgiated requires identification of current exposure and preferred target level of exposure
+  - Identify limits / tolerances above which not willing to accept any more exposure
+  - Identifying any of these items extremely difficult for most emerging risks
+
+### Aggregation
+
+- Monitoring aggregation of risks critical for emerging risks
+- Mechanism by which losses are transferred from one area / insured / head of damage to another poorly understood until event crystallises
+- Biggest challenge with emerging risks: little/no historical information on how losses accumulate when risks occur
+  - Each insurer try to understand these processes
+  - Involves huge amount of assumptions and uncertainty
+  - Extremely hard to place reliance on these estimates
+- Necessary to use very crude exposure management tools
+  - Refuse to write such business at all
+  - Strictly limiting total sum insued to manageable level
+
+### Product development
+
+- Lack of historical info => insurer doesn't adequately understand possible consequences of emerging risk
+- Insurer cannot assess its current total exposure or desired level of total exposure
+- Insurer cannot assess how individual contracts will aggregate, with each other or with rest of portfolio
+- Result: refuse to offer cover (exclusion clauses, refuse to write standalone product) or offer very limited cover
+- Always room for interpretation in assessing applicability of terms and conditions of a contract - even for well-understood risks, well-established legal prcedents / standard clauses
+  - For emerging risk, risk event itself is vague, terms of contract are new / untested and no legal precedent exists
+  - Under circumstances => insurer finds true exposure much higher/lower than originally intended when drafting contracts
+- Leads to vicious cycle:
+  - Lack of historical experience makes it hard for insurer to understand risk profile of emerging risks
+  - => Few products offered
+  - => Industry fails to gather new data and experience of risks
+  - => Under-supply of relevant insurance relative to demand
+  - => Pushes up prices
+  - => Encourages firms to self-insure
+  - => Increase profitability for insurers and incentivise them to develop tools/techniques/experience required to adequately manage these risk
+  - However lengthy / difficult process suppresses innovation in associated industries => costly in long run
+
+### Cyber risk
+
+- Technology improves, host of devices increasingly interconnected => risks of errors / malicious use of technology becomes greater
+- Cyber insurance relatively new product, developing over last 10 years
+- Initially pricing / reserving relatively crude
+- High-profile incidents of data breaches in recent times now being used to estimate frequency & severity of claims
+- Accurate risk assessment is difficult => risk not yet well understood => coverage and policy wording not yet fully appropriate
+- Cyber risk has massive accumulation risk
+- Cyber risk large enough risk in own right => insurers offer product designed specifically for it
+- Lloyd's attempts to assess cyber aggregations by asking syndicates to estimate losses to individual market-wide scenarios using the Lloyds' RDS regime
+  - Provides information on aggregations within and between syndicates
+  - Very crude in comparison to natural catastrophe aggregation modelling
+
+## Climate change
+
+- Good knowledge of extreme weather systmes
+  - Hurricanes in US widely studied
+  - Number of detailed comprehensive models exist for analysing risks of these event types
+  - Understanding evolving but phenomena relatively well understood
+  - Significant scientific literature
+  - Significant historical data
+- Global warming heats the earth => historical climate patterns are changing
+  - Warmer seas lead to larger more powerful hurricanes
+  - Higher sea levels lead to large, more dangerous storm surges
+  - Existing wind and tidal processes change, creating/destroying existing feedback loops within indvidual weather systems => historical record not as relevant when considering range of possible outcomes
+- Changing climatic patterns impacts range of policies
+  - Example: agriculture / crop policies
+  - Areas which are suitable for growth of crops changing
+  - Species of plants and animals which can survive in areas is changing
+  - Leads to some areas more suitable for agriculture, others less so
+  - Changes likely claim frequency and severity of crop claims
+  - Historical data records less relevant when considering likely claims experience
+  - Changing climate common driver potentially affecting experience of greater number of agriculture policies
+- Over time increasingly unable to rely on historical understanding of processes
+- Affects ability of insurance industry appropriately pricing and managing associated risks
+- Lead to certain perils becoming effectively uninsurable
+- Lead to particular activities / geographical areas uneconomical for investment or large government schemes required
+  - Example: National Flood Insurance Program (`NFIP`) in the US
+  - Politically difficult - subsidising risk-takers using public funds
+  - Schemes inefficient way to help encourage long-term investment in particular fields / areas
