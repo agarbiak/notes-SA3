@@ -113,7 +113,10 @@ Not yet started.
 
 ## [Latent Lines](latent.md)
 
-- Reserving techniques
+- Latent claim characteristics
+- Latent claim stages
+- APH
+- Modelling latent claims
 
 ## [Financial Reporting](accounting.md)
 
@@ -152,5 +155,7 @@ Not yet started.
 ## [Other Topics](other_topics.md)
 
 - Periodic Payment Orders
-- Emerging risks
 - Disruptors to GI market
+- Emerging risks
+- Cyber risk
+- Climate change
