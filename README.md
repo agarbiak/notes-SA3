@@ -89,8 +89,10 @@ Not yet started.
 
 ## [Professional Standards](professional.md)
 
-- Requirements for practising actuaries
-- Requirements for consulting actuaries
+- Actuarial associations - IAA and AAE
+- Technical standards - TAS 100 and TAS 200
+- Actuarial Profession Standards (`APS`)
+- Actuaries' Code
 
 ## [Taxation](tax.md)
 
