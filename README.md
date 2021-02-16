@@ -85,7 +85,13 @@ Syllabus states:
 
 ## [Technical Provisions](tps.md)
 
-Not yet started.
+- Best estimate claims provision
+- Best estimate premium provision
+- Risk margin
+- Reinsurance treatment
+- ENIDs
+- Segmentation
+- Validation, reporting and communication
 
 ## [Professional Standards](professional.md)
 
